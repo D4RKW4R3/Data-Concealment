@@ -1,0 +1,8 @@
+Cadeado.
+
+Uma evidência .png criptografada foi encontrada. 
+A chave está registrada nos metadados, mas o algoritmo não é explícito.
+Objetivo: extrair os metadados, extrair a imagem criptografada, identificar o algoritmo criptográfico correto e descriptografar.
+
+Sha-1: ff5174f169c6d400967e3c19e2002d9dba2262bf
+Sha-256: 6d731ce583816ae219dbcef8968b7e79d93d98cc4e4284f865d5630d83bfcf2f

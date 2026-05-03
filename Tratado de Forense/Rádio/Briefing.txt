@@ -1,0 +1,7 @@
+Radiotransmissão
+
+Durante a comunicação foi interceptado um ruído estranho. 
+Objetivo: visualizar o que há escondido no áudio.
+
+Sha-1: 99b5440a9326db1856148c3405b5c7dcb375930a
+Sha-256: 8e8d667f3b331a53b2f027146294c72017fb58027bbff57a5b86811c91fbeb27

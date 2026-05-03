@@ -1,0 +1,8 @@
+O analista afirma que veio de outro planeta.
+
+Na imagem foi anexada em um e-mail suspeito. 
+A suspeita é de transmissão de informações confidenciais.
+Objetivo: extrair a informação escondida no arquivo.
+
+Sha-1: 978e747a2f5de9e818cc882dc8f3337f3c17b20a
+Sha-256: e63338a8866d59d41a63892b6544ba2a42c48e98522bf2c143c42ed862da651c
